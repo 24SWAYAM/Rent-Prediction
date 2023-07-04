@@ -1,7 +1,7 @@
 # Rent-Prediction
 
 This is a Machine Learning Model which is trained on a dataset from Kaggle. The data contains informatikon about number of bedrooms, bathrooms, city, locality, furnish type etc.
-The model uses XGBOOST Algorithm and has an accuracy of 90$(almost) .
+The model uses XGBOOST Algorithm and has an accuracy of 90%(almost) .
 The project is deployed using Flask.
 
 ## How to Run:-
