@@ -9,3 +9,10 @@ The project is deployed using Flask.
 Step 1: Download the code/ Fork this repo and make sure code is available on your system.
 
 Step 2: Open file named app.py and run this python file, by default file will run on port=5500.
+
+You will see something like this.
+
+![](assets/i1.png)
+
+![](assests/i2.png)
+
