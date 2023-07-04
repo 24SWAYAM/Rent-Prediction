@@ -11,5 +11,10 @@ Step 1: Download the code/ Fork this repo and make sure code is available on you
 Step 2: Open file named app.py and run this python file, by default file will run on port=5500.
 
 You will see something like this.
-![](assests/i1.png)
+
+![](assets/i1.png)
+
+
+![](assets/i2.png)
+
 
